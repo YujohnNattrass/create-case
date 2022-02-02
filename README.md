@@ -27,7 +27,7 @@ Each transaction requires the following:
 - Currency
 - Time when transaction was created (timestamp format)
 
-Instructions to start:
+# Instructions to start:
 
 1. npm install
 2. create an .env file and add in the api url as API_URL and the token as TOKEN
